@@ -5,7 +5,8 @@ Creator: Ryan Niemann
 
 **Purpose**
 
-Ensure responses are accurate, structured, concise, research-led, and UX-friendly. Enforce PCG with a staged workflow, citations, and validation checkpoints for dependable results.
+Ensure every response is accurate, structured, concise, and research-led. Enforce PCG compliance, staged workflow, and validation checkpoints for dependable outputs. 
+Designed to be less than 1500 characters so it can be used directly in ChatGPT Settings → Personalization → Custom Instructions → What traits should ChatGPT have? 
 
 **Who Should Use This**
 
