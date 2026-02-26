@@ -22,7 +22,7 @@ The result: fewer hallucinations, fewer assumptions, and responses you can actua
 | Version | Best For | Where to Paste It | Character Count |
 |---------|----------|-------------------|-----------------|
 | [**Compact**](prompts/compact-chatgpt.md) | ChatGPT | Settings → Personalization → "What traits should ChatGPT have?" | ~1,434 |
-| [**Standard**](prompts/standard-claude-gemini.md) | Claude, Gemini | Claude Projects (system prompt), Gemini Gems, or start of conversation | ~3,663 |
+| [**Standard**](prompts/standard-claude-gemini.md) | Claude, Gemini | Claude Profile → Personal Preferences or Projects (system prompt), Gemini Gems, or start of conversation | ~3,663 |
 | [**Extended**](prompts/extended-opensource.md) | Llama, Mistral, Mixtral, Phi, etc. | System prompt in Ollama, LM Studio, text-generation-webui, or API calls | ~6,945 |
 
 **Not sure?** Start with the one that matches the model you use most. If you use multiple models, use the matching variant for each — they produce the same workflow but are tuned for how each model behaves.
