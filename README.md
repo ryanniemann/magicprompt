@@ -99,7 +99,7 @@ The AI asks *before* assuming. The response that follows is grounded in your act
 2. Create or open a **Project**
 3. In the project's **system prompt** field, paste the contents of [`prompts/standard-claude-gemini.md`](prompts/standard-claude-gemini.md) (everything below the "Copy" line)
 
-Alternatively, paste it at the start of any conversation.
+Alternatively, paste it to Profile → Personal Preferences or at the start of any conversation.
 
 ### Gemini (Standard)
 
